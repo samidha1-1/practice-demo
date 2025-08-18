@@ -1,4 +1,4 @@
 # practice-demo
-this repo is for practice session,
+This repo is for practice session,
 <br>
 Author - Samidha wani
